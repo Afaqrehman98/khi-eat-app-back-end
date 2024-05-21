@@ -76,19 +76,19 @@ npm run dev
 **Project Structure**
 Here's an overview of the project structure:
 
-MyNodeProject/
-├── controllers/ # Route handlers
-│ └── MyUserController.ts
-├── middleware/ # Custom middleware
-│ └── jwtCheck.ts
-├── models/ # Mongoose models
-│ └── User.ts
-├── routes/ # Express routes
-│ └── myUserRoute.ts
-├── index.ts # Entry point of the application
-├── package.json
-├── README.md
-└── .env
+1. Backend/
+   ├── controllers/ # Route handlers
+   │ └── MyUserController.ts
+   ├── middleware/ # Custom middleware
+   │ └── jwtCheck.ts
+   ├── models/ # Mongoose models
+   │ └── User.ts
+   ├── routes/ # Express routes
+   │ └── myUserRoute.ts
+   ├── index.ts # Entry point of the application
+   ├── package.json
+   ├── README.md
+   └── .env
 
 **Contributing**
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
