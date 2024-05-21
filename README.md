@@ -76,8 +76,6 @@ npm run dev
 **Project Structure**
 Here's an overview of the project structure:
 
-bash
-Copy code
 MyNodeProject/
 ├── controllers/ # Route handlers
 │ └── MyUserController.ts
