@@ -37,7 +37,7 @@ To get a local copy up and running, follow these simple steps:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/MyNodeProject.git
+git clone https://github.com/Afaqrehman98/khi-eat-app-back-end.git
 Navigate to the project directory:
 
 cd MyNodeProject
